@@ -1,4 +1,4 @@
-import { ReactElement, useEffect, useState } from "react";
+import { useEffect, useState } from "react";
 
 // esto es para gestionar el tipo correctamente
 interface user {
